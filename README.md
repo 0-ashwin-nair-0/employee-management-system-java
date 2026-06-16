@@ -103,7 +103,4 @@ javac Employee.java EmployeeMain.java
 ```bash
 java EmployeeMain
 ```
-
-## Author
-*Ashwin Nair
-&Developed as part of Java learning and practice to strengthen understanding of Object-Oriented Programming principles.
+Developed as part of Java learning and practice to strengthen understanding of Object-Oriented Programming principles.
